@@ -1,5 +1,6 @@
 # American Movie Trends Before and After COVID: Analysis Report
-![etl](https://github.com/sncrsenyurt/American-Movie-Trends/assets/35157651/a388edf4-2abf-48df-9674-441905e41615)
+![movie-trends](https://github.com/sncrsenyurt/American-Movie-Trends/assets/35157651/d13eb272-ce4c-47fd-a130-431b775e6cc7)
+
 
 ## `Description`
 An analysis of American movie trends before and after the COVD-19 pandemic based on data from [IMDb](https://www.imdb.com/) (**I**nternet **M**ovie **D**atabase).
